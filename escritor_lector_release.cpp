@@ -88,3 +88,5 @@ void file_read()
     tx += "\n--------\n";
     cout<<tx;
 }
+
+//g++ escritor_lector_release.cpp -o escritor_lector_r.o -pthread -std=c++11
